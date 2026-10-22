@@ -17,7 +17,7 @@ Queda pendiente la decisión de si crear otro repositorio o usar este mismo pero
 ## Arquitectura
 PowerHelp utilizara un sistema basado en una base de datos local lo mas pequeñita posible. Se descargara juntamente con el propio programa, conteniendo todos los archivos de ayuda dentro de la propia base de datos. Se pueden descargar todos los idiomas que se encuentren en `gh -Languages` o `GetHelp -Languages`.
 
-Es posible que se utilicen y integren los proyectos TLDR o PlayPS.
+Es posible que se utilicen y integren los proyectos [PoshCode/tldr](https://github.com/PoshCode/tldr) o [PowerShell/platyPS](https://github.com/powershell/platyps).
 
 ---
 ### El porque de hacer esto
